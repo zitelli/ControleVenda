@@ -1,0 +1,15 @@
+{"pedidos":
+[
+    {"controle":1, "data":"2019-02-19 00:00:00", "produto":"Livro Java",      "valorunitario":10.00, "quantidade":3, "cliente":"ADC"},
+    {"controle":2,                               "produto":"Apostila C++",    "valorunitario":12.45, "quantidade":1, "cliente":"EFC"},
+    {"controle":3, "data":"2019-02-19 14:30:00", "produto":"Apostila OOP",    "valorunitario":40.25, "quantidade":2, "cliente":"PMN"},
+    {"controle":4, "data":"2019-02-01 00:00:00", "produto":"Curso PHP",       "valorunitario":22.00, "quantidade":3, "cliente":"DFW"},
+    {"controle":5, "data":"2019-01-12 00:00:00", "produto":"Licença MathLab", "valorunitario":110.85,                "cliente":"POE"},
+    {"controle":6, "data":"2019-02-19 00:00:00", "produto":"Brinquedo",       "valorunitario":10.50, "quantidade":5, "cliente":"HDP"},
+    {"controle":7,                               "produto":"Flores",          "valorunitario":12.45, "quantidade":6, "cliente":"FFF"},
+    {"controle":9, "data":"2019-02-19 08:30:00", "produto":"Teclado",         "valorunitario":40.25, "quantidade":2, "cliente":"DAN"},
+    {"controle":9, "data":"2019-02-19 00:00:00", "produto":"Mouse",           "valorunitario":22.00, "quantidade":10,"cliente":"DFP"},
+    {"controle":10, "data":"2019-01-12 10:00:00","produto":"Sapato",          "valorunitario":110.85,                "cliente":"POE"},
+    {"controle":8, "data":"2019-02-19 11:25:00","produto":"Chinelo",         "valorunitario":10.50, "quantidade":11,"cliente":"ADC"},
+    {"controle":11, "data":"2018-07-28 14:30:20","produto":"Caneca",          "valorunitario":40.25, "quantidade":3, "cliente":"POC"}
+]}

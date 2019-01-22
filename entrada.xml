@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<class>
+	<pedido>
+		<controle>1</controle>
+		<data>2019-02-19 00:00:00</data>
+		<produto>Livro Java</produto>
+		<valorunitario>10</valorunitario>
+		<quantidade>3</quantidade>
+		<cliente>ADC</cliente>
+	</pedido>
+	<pedido>
+		<controle>2</controle>
+		<data></data>
+		<produto>Apostila C++</produto>
+		<valorunitario>12.45</valorunitario>
+		<quantidade>1</quantidade>
+		<cliente>EFC</cliente>
+	</pedido>
+	<pedido>
+		<controle>3</controle>
+		<data>2019-02-19 14:30:00</data>
+		<produto>Apostila OOP</produto>
+		<valorunitario>40.25</valorunitario>
+		<quantidade>2</quantidade>
+		<cliente>PMN</cliente>
+	</pedido>
+	<pedido>
+		<controle>4</controle>
+		<data>2019-02-01 00:00:00</data>
+		<produto>Curso PHP</produto>
+		<valorunitario>22</valorunitario>
+		<quantidade>3</quantidade>
+		<cliente>DFW</cliente>
+	</pedido>
+	<pedido>
+		<controle>5</controle>
+		<data>2019-01-12 00:00:00</data>
+		<produto>Licença MathLab</produto>
+		<valorunitario>110.85</valorunitario>
+		<quantidade></quantidade>
+		<cliente>POE</cliente>
+	</pedido>
+	<pedido>
+		<controle>6</controle>
+		<data>2019-02-19 00:00:00</data>
+		<produto>Brinquedo</produto>
+		<valorunitario>10.5</valorunitario>
+		<quantidade>5</quantidade>
+		<cliente>HDP</cliente>
+	</pedido>
+	<pedido>
+		<controle>7</controle>
+		<data></data>
+		<produto>Flores</produto>
+		<valorunitario>12.45</valorunitario>
+		<quantidade>6</quantidade>
+		<cliente>FFF</cliente>
+	</pedido>
+	<pedido>
+		<controle>8</controle>
+		<data>2019-02-19 08:30:00</data>
+		<produto>Teclado</produto>
+		<valorunitario>40.25</valorunitario>
+		<quantidade>2</quantidade>
+		<cliente>DAN</cliente>
+	</pedido>
+	<pedido>
+		<controle>9</controle>
+		<data>2019-02-19 00:00:00</data>
+		<produto>Mouse</produto>
+		<valorunitario>22</valorunitario>
+		<quantidade>10</quantidade>
+		<cliente>DFP</cliente>
+	</pedido>
+	<pedido>
+		<controle>10</controle>
+		<data>2019-01-12 10:00:00</data>
+		<produto>Sapato</produto>
+		<valorunitario>110.85</valorunitario>
+		<quantidade></quantidade>
+		<cliente>POE</cliente>
+	</pedido>
+	<pedido>
+		<controle>11</controle>
+		<data>2019-02-19 11:25:00</data>
+		<produto>Chinelo</produto>
+		<valorunitario>10.5</valorunitario>
+		<quantidade>11</quantidade>
+		<cliente>ADC</cliente>
+	</pedido>
+	<pedido>
+		<controle>9</controle>
+		<data></data>
+		<produto>Guarda chuva</produto>
+		<valorunitario>12.45</valorunitario>
+		<quantidade>2</quantidade>
+		<cliente>JFC</cliente>
+	</pedido>
+	<pedido>
+		<controle>10</controle>
+		<data>2018-07-28 14:30:20</data>
+		<produto>Caneca</produto>
+		<valorunitario>40.25</valorunitario>
+		<quantidade>3</quantidade>
+		<cliente>POC</cliente>
+	</pedido>
+	<pedido>
+		<controle>12</controle>
+		<data></data>
+		<produto>Monitor</produto>
+		<valorunitario>22</valorunitario>
+		<quantidade>1</quantidade>
+		<cliente>FIU</cliente>
+	</pedido>
+	<pedido>
+		<controle>13</controle>
+		<data>2017-11-03 12:00:34</data>
+		<produto>Roteador</produto>
+		<valorunitario>110.85</valorunitario>
+		<quantidade></quantidade>
+		<cliente>OEP</cliente>
+	</pedido>
+</class>	
